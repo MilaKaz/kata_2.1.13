@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e74a8a16-4f75-46d1-b310-b058f103a63f" name="Changes" comment="commit exercise_2.1.13">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="e74a8a16-4f75-46d1-b310-b058f103a63f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/TipService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/TipService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/TipServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TipServiceTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -166,18 +167,6 @@
       <option name="presentableId" value="Default" />
       <updated>1689932914631</updated>
     </task>
-    <task id="LOCAL-00001" summary="commit exercise_2.1.13">
-      <created>1689949707374</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1689949707374</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="commit exercise_2.1.13" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit exercise_2.1.13" />
   </component>
 </project>
