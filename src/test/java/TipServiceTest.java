@@ -10,8 +10,8 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 public class TipServiceTest {
 
     @ParameterizedTest(name = "Граничные значения суммы покупки {0}")
-    @CsvSource({"1", "500", "999", "1000", "1001", "10000"})
     @DisplayName("Тест на корректность начисления чаевых")
+    @CsvSource({"1", "500", "999", "1000", "1001", "10000"})
     void roundTipTest(BigDecimal amount) {
 
         BigDecimal expectedResult;
